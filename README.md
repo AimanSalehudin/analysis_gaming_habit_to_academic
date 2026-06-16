@@ -53,7 +53,7 @@ python --version
 Clone this version-controlled repository down to your local directory machine, then use the change directory command to enter the root project folder:
 
 ```bash
-git clone [https://github.com/your-github-username/analysis_gaming_habit_to_academic.git](https://github.com/your-github-username/analysis_gaming_habit_to_academic.git)
+git clone https://github.com/AimanSalehudin/analysis_gaming_habit_to_academic.git
 cd analysis_gaming_habit_to_academic
 
 ```
