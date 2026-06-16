@@ -28,6 +28,8 @@ By evaluating an empirical baseline **Single Decision Tree** against our propose
 ├── 📄 requirements.txt           # Python Project Package Dependencies File
 └── 📄 README.md                  # System Documentation and Execution Guide
 
+```
+
 # 🚀 Local Installation & Execution Guide
 
 Follow this comprehensive, step-by-step walkthrough to configure your local machine dependencies and spin up the interactive performance application live:
@@ -36,9 +38,7 @@ Follow this comprehensive, step-by-step walkthrough to configure your local mach
 Before initializing setup, ensure you have **Python 3.10 or higher** installed on your operating system. Verify your installation by opening your terminal (macOS/Linux) or Command Prompt (Windows) and running:
 ```bash
 python --version
-
 ```
-
 ---
 
 ### 🛠️ Step-by-Step Deployment Instructions
@@ -93,15 +93,4 @@ http://localhost:8501
 
 From this local interface dashboard portal, your teammates and assessor can seamlessly browse the **Dashboard & Analysis** evaluation matrices or interactively test custom lifestyle metrics live via the **Predict Student Grade** portal!
 
-```
 
-***
-
-### 📌 Quick Sanity Checklist for Your Folder Before Uploading:
-To prevent terminal file execution errors during your presentation demo, confirm that your directory contains these files in the exact same level:
-* `app.py` (The updated web interface script)
-* `student_rf_model.sav` (The 18-feature model exported from Colab)
-* `Gaming_Academic_Performance.csv` (The underlying structural student dataset)
-* `requirements.txt` (The library environment dependencies list)
-
-```
